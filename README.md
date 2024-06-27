@@ -21,7 +21,7 @@ My educational background in Computer Science and Technology has equipped me wit
 
 ### Links:
 
-### <a href="https://www.github.com/yogesh3373">github</a> | <a href="">linkedin</a>
+### <a href="https://www.github.com/yogesh3373">github</a> | <a href="https://www.linkedin.com/in/yogeshwar-p/">linkedin</a>
 
 ## 👇 Few things about me
 
