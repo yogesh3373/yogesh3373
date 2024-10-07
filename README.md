@@ -31,7 +31,7 @@ My educational background in Computer Science and Technology has equipped me wit
             
 
 ### summary
-*My educational background in Computer Science and Technology has equipped me with astrong foundation in web development, including proficiency in HTML and CSS*
+*My educational background in Computer Science and Technology has equipped me with Skilled  Developer proficient in both front-end and back-end technologies. successfully assist in designing user interactions on web pages using HTML, CSS, and JavaScript, developing server-side logic, and ensuring high performance and responsiveness of applications using frameworks. Strong problem-solving abilities and familiarity with Agile methodologies are essential.*
 
             
 </div>
